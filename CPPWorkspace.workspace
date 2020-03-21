@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPWorkspace" Database="" Version="10.0.0">
+  <Project Name="Test1" Path="Test1/Test1.project" Active="No"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Section7" Path="Section7/Section7.project" Active="No"/>
+  <Project Name="Section8" Path="Section8/Section8.project" Active="No"/>
+  <Project Name="Section9" Path="Section9/Section9.project" Active="No"/>
+  <Project Name="Section10" Path="Section10/Section10.project" Active="No"/>
+  <Project Name="Section10hw" Path="Section10hw/Section10hw.project" Active="No"/>
+  <Project Name="Section11" Path="Section11/Section11.project" Active="No"/>
+  <Project Name="Section12" Path="Section12/Section12.project" Active="No"/>
+  <Project Name="Section13" Path="Section13/Section13.project" Active="No"/>
+  <Project Name="Section14v1" Path="Section14v1/Section14v1.project" Active="No"/>
+  <Project Name="Section14v2" Path="Section14v2/Section14v2.project" Active="No"/>
+  <Project Name="Section15" Path="Section15/Section15.project" Active="No"/>
+  <Project Name="Section16" Path="Section16/Section16.project" Active="No"/>
+  <Project Name="Section17" Path="Section17/Section17.project" Active="No"/>
+  <Project Name="Section18" Path="Section18/Section18.project" Active="No"/>
+  <Project Name="Section19_challenge1" Path="Section19_challenge1/Section19_challenge1.project" Active="No"/>
+  <Project Name="Section20" Path="Section20/Section20.project" Active="No"/>
+  <Project Name="Section19_challenge2" Path="Section19_challenge2/Section19_challenge2.project" Active="No"/>
+  <Project Name="Section19_challenge3" Path="Section19_challenge3/Section19_challenge3.project" Active="No"/>
+  <Project Name="Section19_Challenge4" Path="Section19_Challenge4/Section19_Challenge4.project" Active="No"/>
+  <Project Name="Section20_challenge2" Path="Section20_challenge2/Section20_challenge2.project" Active="No"/>
+  <Project Name="Section20_challenge3" Path="Section20_challenge3/Section20_challenge3.project" Active="Yes"/>
+  <Project Name="Section20_challenge4" Path="Section20_challenge4/Section20_challenge4.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Test1" ConfigName="Debug"/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Section7" ConfigName="Debug"/>
+      <Project Name="Section8" ConfigName="Debug"/>
+      <Project Name="Section9" ConfigName="Debug"/>
+      <Project Name="Section10" ConfigName="Debug"/>
+      <Project Name="Section10hw" ConfigName="Debug"/>
+      <Project Name="Section11" ConfigName="Debug"/>
+      <Project Name="Section12" ConfigName="Debug"/>
+      <Project Name="Section13" ConfigName="Debug"/>
+      <Project Name="Section14v1" ConfigName="Debug"/>
+      <Project Name="Section14v2" ConfigName="Debug"/>
+      <Project Name="Section15" ConfigName="Debug"/>
+      <Project Name="Section16" ConfigName="Debug"/>
+      <Project Name="Section17" ConfigName="Debug"/>
+      <Project Name="Section18" ConfigName="Debug"/>
+      <Project Name="Section19_challenge1" ConfigName="Debug"/>
+      <Project Name="Section20" ConfigName="Debug"/>
+      <Project Name="Section19_challenge2" ConfigName="Debug"/>
+      <Project Name="Section19_challenge3" ConfigName="Debug"/>
+      <Project Name="Section19_Challenge4" ConfigName="Debug"/>
+      <Project Name="Section20_challenge2" ConfigName="Debug"/>
+      <Project Name="Section20_challenge3" ConfigName="Debug"/>
+      <Project Name="Section20_challenge4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Test1" ConfigName="Release"/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Section7" ConfigName="Release"/>
+      <Project Name="Section8" ConfigName="Release"/>
+      <Project Name="Section9" ConfigName="Release"/>
+      <Project Name="Section10" ConfigName="Release"/>
+      <Project Name="Section10hw" ConfigName="Release"/>
+      <Project Name="Section11" ConfigName="Release"/>
+      <Project Name="Section12" ConfigName="Release"/>
+      <Project Name="Section13" ConfigName="Release"/>
+      <Project Name="Section14v1" ConfigName="Release"/>
+      <Project Name="Section14v2" ConfigName="Release"/>
+      <Project Name="Section15" ConfigName="Release"/>
+      <Project Name="Section16" ConfigName="Release"/>
+      <Project Name="Section17" ConfigName="Release"/>
+      <Project Name="Section18" ConfigName="Release"/>
+      <Project Name="Section19_challenge1" ConfigName="Release"/>
+      <Project Name="Section20" ConfigName="Release"/>
+      <Project Name="Section19_challenge2" ConfigName="Release"/>
+      <Project Name="Section19_challenge3" ConfigName="Release"/>
+      <Project Name="Section19_Challenge4" ConfigName="Release"/>
+      <Project Name="Section20_challenge2" ConfigName="Release"/>
+      <Project Name="Section20_challenge3" ConfigName="Release"/>
+      <Project Name="Section20_challenge4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,281 @@
+[{
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge4/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge4",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge4/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge4/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge2/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge2",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge2/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_Challenge4/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_Challenge4",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section19_Challenge4/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section19_Challenge4/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge3/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge3",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge3/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge2/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge2",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge2/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Project1/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Project1",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Project1/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Project1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Test1/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Test1",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Test1/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Test1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section11/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section11",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section11/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section11/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section20/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section20/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge3/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge3",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge3/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section20_challenge3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Checking_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Checking_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Checking_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account_Util.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account_Util.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account_Util.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Savings_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Savings_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Savings_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Trust_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Trust_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Trust_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/I_Printable.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/I_Printable.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/I_Printable.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Savings_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Savings_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Savings_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Trust_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Trust_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Trust_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account_Util.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account_Util.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Account_Util.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/Checking_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Checking_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/Checking_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16/I_Printable.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section16",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section16/I_Printable.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section16/I_Printable.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v2",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/Mystring.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v2",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/Mystring.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/Mystring.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/Mystring.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v2",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/Mystring.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section14v2/Mystring.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section13/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section13/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movies.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movies.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movies.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movie.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movie.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movie.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movies.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movies.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movies.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movie.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section13",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movie.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section13/Movie.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section9/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section9",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section9/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section9/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section10hw/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section10hw",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section10hw/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section10hw/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section8/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section8",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section8/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section8/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v1",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/Mystring.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v1",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/Mystring.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/Mystring.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/Mystring.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section14v1",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/Mystring.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section14v1/Mystring.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Savings_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Savings_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Savings_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account_Util.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account_Util.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account_Util.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account_Util.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account_Util.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account_Util.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Checking_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Checking_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Checking_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Checking_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Checking_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Checking_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Savings_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Savings_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Savings_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Trust_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Trust_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Trust_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15/Trust_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section15",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Trust_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section15/Trust_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section12/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section12",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section12/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section12/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section7/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section7",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section7/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section7/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section10/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section10",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section10/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section10/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge1/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge1",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge1/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section19_challenge1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account_Util.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account_Util.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account_Util.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account_Util.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account_Util.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account_Util.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Checking_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Checking_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Checking_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/InsufficentFundsException.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/InsufficentFundsException.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/InsufficentFundsException.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Checking_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Checking_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Checking_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/I_Printable.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/I_Printable.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/I_Printable.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Trust_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Trust_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Trust_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/I_Printable.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/I_Printable.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/I_Printable.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/IllegalBalanceException.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/IllegalBalanceException.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/IllegalBalanceException.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/IllegalBalanceException.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/IllegalBalanceException.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/IllegalBalanceException.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Savings_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Savings_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Savings_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Savings_Account.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Savings_Account.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Savings_Account.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/Trust_Account.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Trust_Account.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/Trust_Account.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18/InsufficentFundsException.h",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section18",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section18/InsufficentFundsException.h -o /Users/Ychen7175000/Documents/CPPWorkspace/Section18/InsufficentFundsException.h.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Ychen7175000/Documents/CPPWorkspace/Section17/main.cpp",
+  "directory": "/Users/Ychen7175000/Documents/CPPWorkspace/Section17",
+  "command": "clang  -c /Users/Ychen7175000/Documents/CPPWorkspace/Section17/main.cpp -o /Users/Ychen7175000/Documents/CPPWorkspace/Section17/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
